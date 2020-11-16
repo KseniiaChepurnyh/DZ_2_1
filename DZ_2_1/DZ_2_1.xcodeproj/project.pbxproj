@@ -14,6 +14,8 @@
 		DADA2A5F256157E400C9144B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A5E256157E400C9144B /* Assets.xcassets */; };
 		DADA2A62256157E400C9144B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A60256157E400C9144B /* LaunchScreen.storyboard */; };
 		DADA2A6C2562C40400C9144B /* NewView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A6B2562C40400C9144B /* NewView.xib */; };
+		DADA2A7B2562EA6200C9144B /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADA2A7A2562EA6200C9144B /* BlueViewController.swift */; };
+		DADA2A7E2562EB2900C9144B /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADA2A7D2562EB2900C9144B /* RedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		DADA2A61256157E400C9144B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DADA2A63256157E400C9144B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DADA2A6B2562C40400C9144B /* NewView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewView.xib; sourceTree = "<group>"; };
+		DADA2A7A2562EA6200C9144B /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		DADA2A7D2562EB2900C9144B /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				DADA2A57256157E000C9144B /* SceneDelegate.swift */,
 				DADA2A59256157E000C9144B /* ViewController.swift */,
 				DADA2A5B256157E000C9144B /* Main.storyboard */,
+				DADA2A7D2562EB2900C9144B /* RedViewController.swift */,
+				DADA2A7A2562EA6200C9144B /* BlueViewController.swift */,
 				DADA2A5E256157E400C9144B /* Assets.xcassets */,
 				DADA2A60256157E400C9144B /* LaunchScreen.storyboard */,
 				DADA2A6B2562C40400C9144B /* NewView.xib */,
@@ -141,8 +147,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DADA2A7E2562EB2900C9144B /* RedViewController.swift in Sources */,
 				DADA2A5A256157E000C9144B /* ViewController.swift in Sources */,
 				DADA2A56256157E000C9144B /* AppDelegate.swift in Sources */,
+				DADA2A7B2562EA6200C9144B /* BlueViewController.swift in Sources */,
 				DADA2A58256157E000C9144B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
