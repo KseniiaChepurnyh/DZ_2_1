@@ -13,6 +13,7 @@
 		DADA2A5D256157E000C9144B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A5B256157E000C9144B /* Main.storyboard */; };
 		DADA2A5F256157E400C9144B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A5E256157E400C9144B /* Assets.xcassets */; };
 		DADA2A62256157E400C9144B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A60256157E400C9144B /* LaunchScreen.storyboard */; };
+		DADA2A6C2562C40400C9144B /* NewView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DADA2A6B2562C40400C9144B /* NewView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DADA2A5E256157E400C9144B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DADA2A61256157E400C9144B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DADA2A63256157E400C9144B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DADA2A6B2562C40400C9144B /* NewView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				DADA2A5B256157E000C9144B /* Main.storyboard */,
 				DADA2A5E256157E400C9144B /* Assets.xcassets */,
 				DADA2A60256157E400C9144B /* LaunchScreen.storyboard */,
+				DADA2A6B2562C40400C9144B /* NewView.xib */,
 				DADA2A63256157E400C9144B /* Info.plist */,
 			);
 			path = DZ_2_1;
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DADA2A62256157E400C9144B /* LaunchScreen.storyboard in Resources */,
+				DADA2A6C2562C40400C9144B /* NewView.xib in Resources */,
 				DADA2A5F256157E400C9144B /* Assets.xcassets in Resources */,
 				DADA2A5D256157E000C9144B /* Main.storyboard in Resources */,
 			);
